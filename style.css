@@ -1,0 +1,56 @@
+
+*{
+    padding: 0;
+    margin: 0;
+}
+.navv
+{
+    float:right;
+    margin-top: 30px;
+    margin-bottom: 60px;
+    width: 70%;
+   
+}
+.navv a{
+    color:white;
+    padding: 10px;
+    margin: 10px;
+    text-decoration: none;
+    border: 1px white solid;
+    
+}
+.navv a:hover{
+    background-color: azure;
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+
+.login-button{
+    box-sizing: border-box;
+    color: white;
+    font-size: 14px;
+    padding: 13px;
+    border-radius: 7px;
+    border: none;
+    width: 60%;
+    outline: none;
+    background-color: rgb(17, 109, 8);
+}
+.img-fluid
+{
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+}
+
+header{
+    background-color: black;
+
+}
+#logo{
+    
+margin-left:10% ;
+margin-top: 15px;
+margin-bottom: 10px;}
